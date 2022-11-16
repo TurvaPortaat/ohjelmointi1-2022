@@ -8,7 +8,7 @@ if (sana1.Length > sana2.Length)
 {
     Console.WriteLine(sana1);
 }
-else
+else if (sana2.Length > sana1.Length)
 {
     Console.WriteLine(sana2);
 }
